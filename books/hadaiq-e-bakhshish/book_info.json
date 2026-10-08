@@ -1,0 +1,27 @@
+{
+  "bookId": "hadaiq-e-bakhshish",
+  "titleUrdu": "حدائقِ بخشش",
+  "titleRoman": "Hadaiq-e-Bakhshish",
+  "titleEnglish": "Hadaiq-e-Bakhshish",
+  "authorUrdu": "اعلیٰ حضرت امام احمد رضا خان علیہ الرحمۃ",
+  "authorEnglish": "Imam Ahmed Raza Khan",
+  "publisher": "Maktaba-tul-Madina",
+  "totalImages": 454,
+  "coverImage": "001.webp",
+  "sections": [
+    {
+      "id": "hissa-awwal",
+      "titleUrdu": "حدائقِ بخشش (حصہ اول)",
+      "titleEnglish": "Hadaiq-e-Bakhshish (Part 1)",
+      "startImage": "021.webp",
+      "endImage": "245.webp"
+    },
+    {
+      "id": "hissa-dom",
+      "titleUrdu": "حدائقِ بخشش (حصہ دوم)",
+      "titleEnglish": "Hadaiq-e-Bakhshish (Part 2)",
+      "startImage": "246.webp",
+      "endImage": "453.webp"
+    }
+  ]
+}

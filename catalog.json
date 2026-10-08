@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-08",
+  "books": [
+    {
+      "id": "hadaiq-e-bakhshish",
+      "titleUrdu": "حدائقِ بخشش",
+      "titleRoman": "Hadaiq-e-Bakhshish",
+      "titleEnglish": "Hadaiq-e-Bakhshish",
+      "authorUrdu": "اعلیٰ حضرت امام احمد رضا خان علیہ الرحمۃ",
+      "authorEnglish": "Imam Ahmed Raza Khan",
+      "coverUrl": "books/hadaiq-e-bakhshish/cover.webp",
+      "infoUrl": "books/hadaiq-e-bakhshish/book_info.json",
+      "mappingUrl": "books/hadaiq-e-bakhshish/mapping.json",
+      "imagesFolderUrl": "books/hadaiq-e-bakhshish/images/",
+      "totalImages": 454,
+      "totalNaats": 23,
+      "downloadSizeMB": 30.5
+    }
+  ]
+}
